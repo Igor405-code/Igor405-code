@@ -4,18 +4,17 @@
   <ul align="center">
   <summary><h1 style="display: inline-block">Coffee or tea?</h1></summary>
 </div>
-
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Igor405-code/Igor405-code/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Igor405-code/Igor405-code/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
   </picture>
 
-<br> 
-    
+  
+  ---
 <p>Brincadeiras a parte, eu sou Igor, estudante de Front-end, e aqui estou dando meus
   primeiros passos para por fim me tornar um desenvolvedor Full-Stack, eu queria muito que você, visitante, acompanhasse meus primeiros passos neste vasto mundo da tecnologia💻 e visse minha evolução dentro dele🚀. Obs: Café não é doce.</p>
-
+ 
 ## Song🎧
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31vl6z4ggzznmwbycq5h3xfujm6m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=4eb18b&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vl6z4ggzznmwbycq5h3xfujm6m&redirect=true)
 
