@@ -20,9 +20,11 @@
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31vl6z4ggzznmwbycq5h3xfujm6m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=4eb18b&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vl6z4ggzznmwbycq5h3xfujm6m&redirect=true)
 
 ## Social Media📱
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/igor-peres-273ba8290)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_guh66e?igsh=MW1wZGNkeXkydTVxeg==)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
